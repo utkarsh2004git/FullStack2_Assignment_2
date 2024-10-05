@@ -13,9 +13,9 @@ The **Sport Shoes App** is a mobile application built with React Native, designe
 ## Screenshots
 Below are some screenshots showcasing the app's interface:
 
-![HOME](./assests/readMePhotos/home.png) 
-![WISHLIST](./assests/readMePhotos/wishlist.png) 
-![NOTIFICATION](./assests/readMePhotos/notification.png) 
+![HOME](assets/readMePhotos/home.png) 
+![WISHLIST](assets/readMePhotos/home.png) 
+![NOTIFICATION](assets/readMePhotos/home.png) 
 
 ## Getting Started
 
