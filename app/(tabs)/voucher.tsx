@@ -5,9 +5,9 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context'
 const voucher = () => {
     return (
         <SafeAreaProvider>
-            <SafeAreaView style={{ flex: 1 }}>
+            <SafeAreaView style={styles.container}>
                 <View>
-                    <Text>voucher</Text>
+                    <Text style={styles.title}>voucher</Text>
                 </View>
             </SafeAreaView>
         </SafeAreaProvider>
@@ -16,4 +16,14 @@ const voucher = () => {
 
 export default voucher
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+    container:{
+        flex:1,
+        justifyContent:"center",
+        alignItems:"center"
+    },
+    title:{
+        fontSize:30,
+    }
+
+})
