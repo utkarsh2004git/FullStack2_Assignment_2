@@ -27,4 +27,4 @@ Below are some screenshots showcasing the app's interface:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sport-shoes-app.git
+   git clone https://github.com/utkarsh2004git/FullStack2_Assignment_2.git
